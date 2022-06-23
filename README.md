@@ -1,4 +1,6 @@
-# Fitting Poisson Distribution
+# EXP : 02
+# Date :
+# <p align="center">Fitting Poisson Distribution</p>
 
 # Aim : 
 
@@ -59,7 +61,8 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson distribution at 1% LOS")
 ```
-# Results and Output : 
+# Output : 
  ![image](https://user-images.githubusercontent.com/75236145/166474908-2f163bcb-0ddc-4392-9849-c161f9735ad8.png)
 
-<br> Hence a program has been implemented to fit poisson distribution for the given frequencey distribution.
+# Result :
+Hence a program has been implemented to fit poisson distribution for the given frequencey distribution.
